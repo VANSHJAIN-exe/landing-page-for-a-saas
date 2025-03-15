@@ -163,8 +163,8 @@ export function Contact() {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold text-black dark:text-white">Phone</h3>
-                    <p className="mt-1 text-gray-600 dark:text-gray-400">+1 (555) 123-4567</p>
-                    <p className="text-gray-600 dark:text-gray-400">Mon-Fri from 8am to 6pm</p>
+                    <p className="mt-1 text-gray-600 dark:text-gray-400">+91 9930853939</p>
+                    <p className="text-gray-600 dark:text-gray-400">24/7 everyday</p>
                   </div>
                 </div>
 
@@ -175,8 +175,8 @@ export function Contact() {
                   <div>
                     <h3 className="text-lg font-semibold text-black dark:text-white">Address</h3>
                     <p className="mt-1 text-gray-600 dark:text-gray-400">
-                      123 Innovation Drive<br />
-                      San Francisco, CA 94107
+                      Mumbai<br />
+                      Kandivali, 400067
                     </p>
                   </div>
                 </div>
