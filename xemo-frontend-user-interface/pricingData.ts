@@ -1,0 +1,51 @@
+export const plans = [
+  {
+    name: 'Starter',
+    price: 'Free',
+    description: 'Perfect for getting started with essential learning tools',
+    features: [
+      'Interactive Short Notes',
+      'Community Access',
+      'Advanced Analytics',
+      'Study Streaks & Rewards',
+      'Personalized Study Roadmap',
+      'Important Questions Bank',
+      'Email Support',
+      'Call Support',
+      'PYQ analysis'
+    ],
+  },
+  {
+    name: 'Pro',
+    price: '$8.99',
+    description: 'Some additional features with a better and systematic study experience',
+    features: [
+      'All Starter Features',
+      'Audio Notes & Transcription',
+      'Personalized Study Roadmap',
+      'Community access',
+      'Important Questions Bank',
+      'PYQ analysis',
+      'AI-Powered Oral Exam Practice',
+      'Priority Email Support',
+      '24/7 Chat Support',
+    ],
+    featured: true,
+  },
+  {
+    name: 'Team',
+    price: '$18.99',
+    description: 'Perfect advanced features for study groups to collaborate and enhance their studies',
+    features: [
+      'All Pro Features',
+      'Team Collaboration Tools',
+      'Community access',
+      'Advanced Analytics Dashboard',
+      'Custom Study Plans',
+      'Personal Group Making',
+      'Group PYQ analysis',
+      'Ranking based group quiz',
+      'Customizable experience',
+    ],
+  },
+];
